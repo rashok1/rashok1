@@ -28,3 +28,7 @@ Welcome to my little corner of the internet — where curiosity meets code 🌱
 - 💼 [LinkedIn](www.linkedin.com/in/rithikaashok)  
 
 [![Rithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashok1)](https://github.com/rashok1/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=rashok1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rashok1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashok1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
