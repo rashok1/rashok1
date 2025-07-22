@@ -1,7 +1,7 @@
 ## Hi! I'm Rithika 👋
 
 <!--
-**rashok1/rashok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rashok1/rashok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Welcome to my little corner of the internet — where curiosity meets code 🌱
 
