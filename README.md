@@ -5,6 +5,9 @@
 
 Welcome to my little corner of the internet — where curiosity meets code 🌱
 
+### About Me
+I'm a senior Computer Science student at Georgia State University. I'm passionate about building meaningful, user-focused tech. As President of the National Student Data Corps (NSDC) at GSU and a Break Through Tech AI Fellow, I love leading with purpose—whether that’s mentoring peers, designing tech for social good, or creating inclusive spaces. I’m driven by curiosity and a desire to build solutions that make a real impact on the world around me.
+
 ### 🚀 Currently Exploring
 - 🤖 **AI/ML** as a [Break Through Tech Fellow](https://github.com/rashok1/BreakThroughTech_AI) with Cornell University. (Look out for [FALL STUDIO AI PROJECT](https://github.com/rashok1/FALL_STUDIO_AI-Break_Through_Tech-))
 - 🔍 Curious explorations in **Computer Vision**, **Data Science**, and **Creative Coding**.
