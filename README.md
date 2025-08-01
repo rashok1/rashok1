@@ -1,4 +1,4 @@
-## Hi! I'm Rithika 👋
+## Hello World! I'm Rithika Ashok 👋
 
 <!--
 **rashok1/rashok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
