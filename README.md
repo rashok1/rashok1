@@ -6,7 +6,7 @@
 Welcome to my little corner of the internet — where curiosity meets code 🌱
 
 ### 🚀 Currently Exploring
-- 🤖 **AI/ML** as a Break Through Tech Fellow with Cornell University. (Look out for [FALL STUDIO AI PROJECT](https://github.com/rashok1/FALL_STUDIO_AI-Break_Through_Tech-))
+- 🤖 **AI/ML** as a [Break Through Tech Fellow](https://github.com/rashok1/BreakThroughTech_AI) with Cornell University. (Look out for [FALL STUDIO AI PROJECT](https://github.com/rashok1/FALL_STUDIO_AI-Break_Through_Tech-))
 - 🔍 Curious explorations in **Computer Vision**, **Data Science**, and **Creative Coding**.
 - ✨ Building beginner-friendly tools & projects that make tech feel more fun and less scary. ( Learn more about [Sololearn](https://github.com/rashok1/Sololearn), [MoodMap](https://github.com/rashok1/MoodMap), [Cart_Chronicles](https://github.com/rashok1/Cart_Chronicles) & other projects below! )
 
